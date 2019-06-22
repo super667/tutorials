@@ -1,7 +1,12 @@
+add by feature2
 this is my test!
+<<<<<<< HEAD
 Creating a new branch is quick AND simple.
 <<<<<<< HEAD
 Creating a new branch is quick AND simple2222222222222.
 =======
 Creating a new branch is quick AND simple2222.
 >>>>>>> feature1
+=======
+add by dev branch!
+>>>>>>> dev
